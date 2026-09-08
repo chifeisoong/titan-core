@@ -16,7 +16,7 @@ Five campaign sectors, seven turret families, five Titans, five elite operatives
 - Pulse stores up to three shots. Titan drops cause area damage.
 - Unavailable cards darken; their requirement or cooldown remains visible.
 - Core IV unlocks three research upgrades per regular unit; replacements inherit them.
-- Nyx Volta stuns groups. Endless rolls create two open lanes across six route designs, with three spacious build areas and room for 36 towers.
+- Nyx Volta stuns groups. Endless mixes four open layouts and two broad-loop layouts, with three spacious build areas and room for 36 towers.
 - Save Battle Snapshot after a run exports your battlefield and score as a PNG.
 
 Progress is stored in your browser. Reports should include browser/device, sector or endless wave, what you did and what happened.

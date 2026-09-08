@@ -16,7 +16,7 @@ Five campaign sectors, seven turret families, five Titans, five elite operatives
 - Pulse stores up to three shots. Titan drops cause area damage.
 - Unavailable cards darken; their requirement or cooldown remains visible.
 - Core IV unlocks three research upgrades per regular unit; replacements inherit them.
-- Nyx Volta stuns groups. Endless rolls create two lanes across six route designs.
+- Nyx Volta stuns groups. Endless rolls create two open lanes across six route designs, with three spacious build areas and room for 36 towers.
 - Save Battle Snapshot after a run exports your battlefield and score as a PNG.
 
 Progress is stored in your browser. Reports should include browser/device, sector or endless wave, what you did and what happened.
@@ -25,4 +25,4 @@ Progress is stored in your browser. Reports should include browser/device, secto
 
 This folder is the compiled website. Enable GitHub Pages from the main branch, root folder. It also works on any static HTTP server. Opening index.html as a file is unsupported.
 
-Build: Foundry / Core V. 53 model tests plus browser interaction and responsive-layout checks.
+Build: Foundry / Open Routes. 54 model tests plus browser interaction and responsive-layout checks.

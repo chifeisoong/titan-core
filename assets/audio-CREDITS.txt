@@ -1,0 +1,6 @@
+TITAN CORE edited sound effects
+Source: Kenney Sci-Fi Sounds 1.0
+https://kenney.nl/assets/sci-fi-sounds
+License: CC0 / https://creativecommons.org/publicdomain/zero/1.0/
+Edited: trimming, pitch, high/low-pass EQ, layering, fades and gain normalization.
+Source filenames and edit parameters: scripts/edit-combat-samples.py in the development project.

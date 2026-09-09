@@ -17,7 +17,7 @@ Five campaign sectors, seven turret families, five Titans, five elite operatives
 - Unavailable cards darken; their requirement or cooldown remains visible. No turret count cap; normal spacing and costs apply.
 - Core IV unlocks three research upgrades per regular unit; replacements inherit them.
 - Nyx Volta stuns groups. Endless mixes four open layouts and two broad-loop layouts, with three spacious build areas and room for 36 towers.
-- Core II unlocks Cryo Nova; Core III unlocks Solar Storm. Both charge independently and grow stronger with Core tier. Select a ready weapon, then click the map. Pause freezes charging and effects.
+- Core IV unlocks Cryo Nova; Core V unlocks Solar Storm. Both charge independently and grow stronger with Core tier. Select a ready weapon, then click the map. Pause freezes charging and effects.
 - Save Battle Snapshot after a run exports your battlefield and score as a PNG.
 
 Progress is stored in your browser. Reports should include browser/device, sector or endless wave, what you did and what happened.
@@ -26,4 +26,4 @@ Progress is stored in your browser. Reports should include browser/device, secto
 
 This folder is the compiled website. Enable GitHub Pages from the main branch, root folder. It also works on any static HTTP server. Opening index.html as a file is unsupported.
 
-Build: Arsenal. 60 model tests plus browser interaction and responsive-layout checks.
+Build: Arsenal. 61 model tests plus browser interaction and responsive-layout checks.

@@ -26,4 +26,4 @@ Progress is stored in your browser. Reports should include browser/device, secto
 
 This folder is the compiled website. Enable GitHub Pages from the main branch, root folder. It also works on any static HTTP server. Opening index.html as a file is unsupported.
 
-Build: Arsenal. 61 model tests plus browser interaction and responsive-layout checks.
+Build: Arsenal. 63 model tests plus browser interaction and responsive-layout checks.
